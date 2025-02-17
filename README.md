@@ -8,7 +8,7 @@ First of all, I love to solve problems, and that's why I became an engineer. Mor
 
 ### Education
 
-Bachelor's in Computer Engineering - Universidade de São Paulo (USP) (2021 - 2025)
+Bachelor's in Computer Engineering - University of São Paulo (USP) (2021 - 2025)
 
 ### Professional Experience
 
