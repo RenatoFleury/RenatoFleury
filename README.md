@@ -4,7 +4,7 @@ To learn more about me and my journey so far, please explore the topics below.
 
 ### About me
 
-First of all, I love to solve problems, and that's why I became an engineer. More specifically, I'm an undergraduate computer engineer at Universidade de São Paulo aiming to work as a software engineer.
+First of all, I love to solve problems, and that's why I became an engineer. More specifically, I'm an undergraduate computer engineer aiming to work as a software engineer.
 
 ### Education
 
