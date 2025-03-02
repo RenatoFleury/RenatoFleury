@@ -1,6 +1,6 @@
 ## Hi there 👋. I'm Renato, and it's a pleasure to have you here.
 
-To learn more about me and my journey so far, please explore the topics below.
+To know more about me and my journey so far, please explore the topics below.
 
 ### About me
 
